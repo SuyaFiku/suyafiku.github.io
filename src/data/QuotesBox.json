@@ -1,0 +1,22 @@
+[
+	{
+		"id": 0,
+		"author": "Albert Einstein",
+		"quotes": "Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid."
+	},
+	{
+		"id": 1,
+		"author": "Albert Einstein",
+		"quotes": "Anyone who has never made a mistake has never tried anything new."
+	},
+	{
+		"id": 2,
+		"author": "Bill Gates",
+		"quotes": "It's fine to celebrate success but it is more important to heed the lessons of failure."
+	},
+	{
+		"id": 3,
+		"author": "Tony Robbins",
+		"quotes": "No matter how many mistake you make or how slow you progress, you are still way ahead of every one who isn't trying"
+	}
+]
